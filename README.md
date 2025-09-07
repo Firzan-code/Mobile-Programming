@@ -1,6 +1,6 @@
-#Hi 👋, I'm Safri Firzan Sururi
-Saya Mahasiswa Teknik Informatika UIN Malang.
-💻Saat ini saya sedang belajar pemrograman mobile menggunakan flutter:
+#Hi 👋, I'm Safri Firzan Sururi <br>
+Saya Mahasiswa Teknik Informatika UIN Malang. <br>
+💻Saat ini saya sedang belajar pemrograman mobile menggunakan flutter:<br>
 
 | No | Tgl Praktikum | Topik Laporan Repository | Modul | Laporan Praktikum |
 |----|---------------|---------------------------|-------|-------------------|
